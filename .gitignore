@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+venv/
+*.log
+data_city/
+*.xlsx
+*.csv
+*.ipynb_checkpoints/
