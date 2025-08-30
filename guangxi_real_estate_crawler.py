@@ -48,7 +48,6 @@ CITY_MAP = {
     '西安':'xian','xa':'xian',
     '天津':'tianjin','tj':'tianjin',
     '苏州':'suzhou','su':'suzhou',
-    '克拉玛依':'kelamayi','klmy':'kelamayi',
     '青岛':'qingdao','qd':'qingdao',
     '大连':'dalian','dl':'dalian',
     '厦门':'xiamen','xm':'xiamen',
